@@ -16,4 +16,3 @@ docker build -t gerdgrimmen/dev-golang ./data/Dockerfiles/go/
 
 #more images
 docker pull alpine:3.6
-
