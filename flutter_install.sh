@@ -1,6 +1,10 @@
+#//bin/bash
+# Arch Flutter install script
+# Thi is not a "one-click-complete-install"
+# Manual Stuff is still has to be done
 yaourt android-studio
 yaourt visual-studio-code
-code --install-extension DanTup.dart-code
+code --install-extension DanTup.dart-code # ?ItemName from plugin-webpage
 mkdir ~/code/
 mkdir ~/code/git/
 cd ~/code/git/
